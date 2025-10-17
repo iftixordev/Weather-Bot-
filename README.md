@@ -153,9 +153,9 @@ Bu loyiha MIT litsenziyasi ostida tarqatiladi. Batafsil ma'lumot uchun `LICENSE`
 
 ## 📞 Aloqa
 
-- **Telegram**: [@yourusername](https://t.me/yourusername)
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Telegram**: [@yourusername](https://t.me/Iftixorme)
+- **Email**: iftixortoychiyev@gmail.com
+- **GitHub**: [yourusername](https://github.com/Iftixordev)
 
 ## 🙏 Minnatdorchilik
 
